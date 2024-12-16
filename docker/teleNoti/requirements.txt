@@ -3,4 +3,4 @@ Flask-Cors==3.0.8
 pyTelegramBotAPI==3.6.7
 python-telegram-bot==12.4.2
 telebot==0.0.3
-requests==2.7.0
+requests==2.20.0
